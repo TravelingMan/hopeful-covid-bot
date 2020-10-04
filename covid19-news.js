@@ -103,6 +103,11 @@ const data = [
       text: "🚸 CNN and @sesamestreet host a townhall for families about navigating the back-to-school season during a pandemic",
       link: "https://edition.cnn.com/2020/09/12/us/sesame-street-cnn-town-hall-coronavirus-parents-trnd/index.html",
       source: "@CNN"
+    },
+    {
+      text: "💊 Two minutes to positive -- Sheba trialing new antigen coronavirus test",
+      link: "https://www.jpost.com/health-science/two-minutes-to-positive-sheba-trialing-new-antigen-coronavirus-test-644128",
+      source: "@Jerusalem_Post"
     }
   ];
 
